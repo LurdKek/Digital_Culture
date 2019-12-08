@@ -56,7 +56,7 @@ function preload() {
 function setup() {
     canvas = createCanvas(1100, 1500);
     canvas.position(0, 0);
-    myMusic.setVolume(0.9);
+    myMusic.setVolume(0.6);
     myMusic.play();
 
 }
