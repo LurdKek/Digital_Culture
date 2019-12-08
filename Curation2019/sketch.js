@@ -122,7 +122,7 @@ function draw() {
     plex.display(650, 70, iconPlex);
     iPod.display(550, 600, iconIpod);
     container.display(1000, 750, iconContainer);
-    acm.display(90, 40, iconAcm);
+    acm.display(90, 120, iconAcm);
     pokemon.display(600, 150, iconPokemon);
     zamona.display(700, 50, iconZamona);
 
