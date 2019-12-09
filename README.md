@@ -1,4 +1,4 @@
 # Digital_Culture
 Artefacts of digital culture
 
-LINK: https://rawcdn.githack.com/LurdKek/Digital_Culture/0cf70d9b234544d2923d12e287906b543d9a6cc1/Curation2019/index.html
+LINK: https://rawcdn.githack.com/LurdKek/Digital_Culture/cf29342c1f597a5364261923bbc90255b81cb234/Curation2019/index.html
